@@ -1,5 +1,5 @@
 
-# 🚀 Apache (httpd) Docker Deployment using Jenkins Freestyle on AWS EC2
+# 🚀 Apache (httpd) Docker Deployment using Jenkins on AWS EC2
 
 This guide provides step-by-step instructions to deploy an Apache HTTP Server (httpd) Docker container using Jenkins Freestyle Job, GitHub, and Docker on an AWS EC2 Ubuntu instance.
 
